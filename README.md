@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá pessoal! Bem vindos a minha páginas!
+
+Sou Lucas David, estou iniciando minha carreira como cientista de dados e procurando me desenvolver todos os dias!
+
+- Atualmente estou estudando ciências de dados construindo projetos utilizando Pandas, Python, SQL e Machine Learning.
 
 <!--
 **LucasDavidFM/LucasDavidFM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
